@@ -1,1 +1,1 @@
-const nameLenght= frineds.map(name=> name.length)
+console.log(goodStudents)
