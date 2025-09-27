@@ -35,3 +35,5 @@ const {firstName, lastName, age}=person;
 
 console.log(firstName, lastName, age);
 
+
+
