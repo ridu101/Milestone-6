@@ -1,4 +1,1 @@
-siblings:{
-        //     brother: "Jim Doe",
-        //     sister: "Jill Doe"
-        // }
+const nameLenght= frineds.map(name=> name.length)
