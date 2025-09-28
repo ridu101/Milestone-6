@@ -18,3 +18,7 @@ let sum = 0;
 
 nums.forEach( n => sum = sum+n);
 console.log(sum);
+
+const nums1 = [1,2,3,4,5];
+let output = nums1.filter(n => n%2);
+console.log(output);
