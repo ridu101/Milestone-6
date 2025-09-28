@@ -11,3 +11,10 @@ const words = ["pen", "pencil", "eraser", "marker"];
 
 const firstWordStartingWithP= words.find( word => word[0] === 'p');
 // console.log(firstWordStartingWithP);
+
+// From [10, 20, 30, 40, 50], find the first number divisible by 4.
+
+const nums = [10, 20, 30, 40, 50];
+
+const firstNumberDivisibleBy4= nums.find( num => num % 4 === 0);
+console.log(firstNumberDivisibleBy4);
